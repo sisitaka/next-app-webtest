@@ -1,0 +1,10 @@
+{
+    "user":[
+        {"id": 1, "name": "Takao Shishido", "email": "takao@example.com", "password": "takao"},
+        {"id": 2, "name": "Hirofumi Ito", "email": "ito@example.com", "password": "ito"}
+    ],
+    "test": [
+        {"id": 1, "name": "React", "content": "React testing"},
+        {"id": 2, "name": "Vue", "content": "Vue testing"}
+    ]
+}
