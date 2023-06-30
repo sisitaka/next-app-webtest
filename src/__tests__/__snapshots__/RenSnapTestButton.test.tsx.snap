@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`描画されてすぐはOFFと表示されている 1`] = `
+<button
+  className="p-3 rounded-lg bg-red-600 text-white"
+  onClick={[Function]}
+  placeholder="テスト"
+>
+  OFF
+</button>
+`;
